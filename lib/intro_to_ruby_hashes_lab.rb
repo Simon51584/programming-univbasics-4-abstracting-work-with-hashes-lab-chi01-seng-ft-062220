@@ -12,7 +12,7 @@ end
 
 def update_counting_hash(hash, key)
   hash[key]
-  if hah[key] = nil 
+  if hash[key] = nil 
     hash => key
   end 
   # given a hash an a key as parameters, return an updated hash
